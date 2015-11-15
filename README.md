@@ -1,5 +1,8 @@
 # Grand Canyon carving in Fortran
-Seamlessly open files found by grep in vim at the right line.
+Numerical carving of the Grand Canyon in Fortran:
+-diffusion equation
+-Laplace operator
+-2D erosion
 
 
 ## Quick start
