@@ -10,7 +10,7 @@ sudo apt-get install gfortran
 ```
 
 ## Preview
-![Preview](/images/preview.gif)
+![Preview](/images/grandCanyonCarvingInFortran.gif)
 
 
 ## To do
