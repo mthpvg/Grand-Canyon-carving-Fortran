@@ -1,0 +1,5 @@
+#!/bin/bash
+gfortran -c m_motore.f90
+gfortran -c motore_r1.f90
+gfortran m_motore.o motore_r1.o -o motore_r1.x
+./motore_r1.x
